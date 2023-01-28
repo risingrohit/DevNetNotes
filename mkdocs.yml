@@ -1,0 +1,8 @@
+site_name: NETWORKSCHOOLOFFICIAL
+nav: 
+  - Home: index.md
+  - Concept of NetDevOPs: netdev.md
+  - Automation requirement in Networks: requirement.md
+  - Structured vs Non Structured data: stdata.md
+  - Data Modeling and Formats: modeling.md
+theme: readthedocs
