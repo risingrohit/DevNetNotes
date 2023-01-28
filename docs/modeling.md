@@ -7,6 +7,6 @@ Basically tells about rules and structure of the data
 # Data Format  
 Talks about the format of data a application/machine can understand  
 
-* YAML
-* JSON
-* XML
+* YAML  
+* JSON  
+* XML  
